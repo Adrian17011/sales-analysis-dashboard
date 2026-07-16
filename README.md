@@ -134,7 +134,7 @@ The interactive dashboard includes:
 
 
 
-![Dashboard](images/dashboard-overview.png)
+![Dashboard](images/dashboard-overview.jpg)
 
 
 ---
