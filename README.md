@@ -131,13 +131,11 @@ The interactive dashboard includes:
 
 ## Dashboard Preview
 
-Add screenshots inside the **images** folder.
 
-Example:
 
-```markdown
+
 ![Dashboard](images/dashboard-overview.png)
-```
+
 
 ---
 
